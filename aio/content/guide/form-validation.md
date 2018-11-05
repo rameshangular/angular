@@ -3,7 +3,7 @@
 
 
 
-Improve overall data quality by validating user input for accuracy and completeness.
+Improve overall data quality by validating user input for accuracy and completeneses.
 
 This page shows how to validate user input in the UI and display useful validation messages
 using both reactive and template-driven forms. It assumes some basic knowledge of the two
